@@ -382,10 +382,11 @@ h2 {
 
 .footer-container {
     display: flex;
+    align-items: baseline;
 }
 
-.container-social-icons-footer {
-    padding-left: 120px;
+.container-logo-footer {
+    margin-right: 120px;
 }
 
 .title-icons {
@@ -393,8 +394,13 @@ h2 {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #fff;
-    padding-bottom: 16px;  
+    color: #ffffff;
+    margin-bottom: 16px;  
+}
+
+.list-social-icons-footer {
+    display: flex;
+    gap: 16px;
 }
 
 
