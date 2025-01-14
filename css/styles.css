@@ -194,7 +194,7 @@ img {
 .navigation {
     display: flex;
     align-items: center;
-    margin-right: 332px;
+    margin-right: auto;
 }
 
 .list-contacts {
